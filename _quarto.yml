@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "TIRED"
+  title: "Abraham Ayiah Yankson"
   navbar:
     left:
       - href: index.qmd
