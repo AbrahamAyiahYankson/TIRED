@@ -7,10 +7,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Contact Information\n\n\nEducation\n\n\nResearch\n\n\nSkills Proficiency"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Abraham Ayiah Yankson",
     "section": "",
-    "text": "Hello,\nI am Abraham Ayiah Yankson, MA Economics student at the Memorial University of Newfoundland, Canada. I am also the founder and the President of Care for Humanity Initiative Foundation Ghana (CHIG-GH), Ghana.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello,\nI am Abraham Ayiah Yankson, MA Economics student at the Memorial University of Newfoundland, Canada. I am also the founder and the President of Care for Humanity Initiative Foundation Ghana (CHIF-GH), Ghana.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]

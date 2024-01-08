@@ -4,7 +4,7 @@ title: "Abraham Ayiah Yankson"
 
 Hello,
 
-I am Abraham Ayiah Yankson, MA Economics student at the Memorial University of Newfoundland, Canada. I am also the founder and the President of Care for Humanity Initiative Foundation Ghana (CHIG-GH), Ghana.
+I am Abraham Ayiah Yankson, MA Economics student at the Memorial University of Newfoundland, Canada. I am also the founder and the President of Care for Humanity Initiative Foundation Ghana (CHIF-GH), Ghana.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
